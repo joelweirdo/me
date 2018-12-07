@@ -1,0 +1,66 @@
+html { 
+	background-color: #fff;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	font-family: 'Roboto Mono', monospace;
+}
+a{
+	color: #34fcd9;
+}
+a:hover{
+	color: #b877bc;
+}
+.container .header{
+	padding-top: 25px;
+	padding-bottom: 0px;
+	text-align: center;
+}
+.container .header .fusion{
+	position: relative; 
+}
+.container .header .fusion .perfil{
+	position: absolute;
+	opacity: 0.8;
+	max-width: 200px;
+	height: 200px;
+	border-radius: 50%;
+}
+.container .header .fusion .perfil2{
+	position: relative;
+	opacity: 0.5;
+	max-width: 200px;
+	height: 200px;
+	border-radius: 50%;
+}
+.container .name{
+	text-align: center;
+	font-size: 55px;
+	color: #111;
+}
+.container .name h4{
+	margin: 20px!important;
+	margin-bottom: 0px!important;
+}
+.container .name p{
+	font-size: 15px;
+	margin-top: 0px!important;
+}
+.container .links{
+	text-align: center;
+}
+.container .links a img{
+	padding: 8px;
+}
+.container .projects{
+	text-align: center;
+}
+.container .caixa {
+	text-align: center;
+}
+.container .caixa img{
+	max-height: 200px;
+	width: auto;
+	opacity: 0.5;
+}
